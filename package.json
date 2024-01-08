@@ -1,0 +1,12 @@
+{
+  "name": "coderhouse",
+  "version": "1.0.0",
+  "description": "backend course development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abel Angel Ortega Huaraca",
+  "license": "ISC"
+}
